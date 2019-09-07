@@ -5,7 +5,7 @@
    "name": "analytics",
    "children": [
     {
-     "name": "cluster",
+     "name": "Cognitive",
      "children": [
       {"name": "AgglomerativeCluster", "value": 3938},
       {"name": "CommunityStructure", "value": 3812},
